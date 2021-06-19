@@ -16,6 +16,6 @@ public class MyName {
     //main方法程序的入口（该格式固定）
     public static void main(String[] args){
     //打印输出下面的语句，括号里面用"",语句结束后面记得用;结尾
-    System.out.println("谢智勇");
+    System.out.println("hello");
     }
 }
